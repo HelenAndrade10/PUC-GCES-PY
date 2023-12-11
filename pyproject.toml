@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "gcs-helen"
+version = "0.1.0"
+description = "Trabalho de GCS"
+authors = ["Helen Andrade <hcoandrade@sga.pucminas.br>"]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
